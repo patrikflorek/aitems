@@ -3,7 +3,7 @@
 Is a KivyMD derived UI widget which brings drag and drop and scrollable 
 functionality to MDList.
 
-For now it expects to by only one such an element on a screen.
+For now it expects to be only one such an element on a screen.
 
 
 ## Installation

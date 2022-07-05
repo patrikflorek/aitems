@@ -15,7 +15,7 @@ from kivy.metrics import dp
 from kivy.properties import ObjectProperty
 from kivy.uix.floatlayout import FloatLayout
 
-from dragndrop.item import DraggableListItem
+from aitems.dragndrop.item import DraggableListItem
 
 
 Builder.load_string(

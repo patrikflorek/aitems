@@ -12,7 +12,7 @@ from kivy.lang.builder import Builder
 from kivymd.app import MDApp
 from kivymd.uix.screen import MDScreen
 
-from dragndrop.list import ScrollableDragNDropListContainer
+from aitems.dragndrop.list import ScrollableDragNDropListContainer
 
 
 Builder.load_string(
