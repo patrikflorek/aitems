@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+
+
+# Distribution / packaging
+bin/
+
+
+# Environments
+venv/
+
+
+# IDE settings
+.vscode/
